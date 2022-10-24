@@ -22,5 +22,7 @@
 -- set total = 24
 -- where invoice_id = 5;
 
--- DELETE FROM invoice
+-- DELETE FROM invoice_line where invoice_id = 1;
+-- delete
+-- from invoice
 -- where invoice_id = 1;
